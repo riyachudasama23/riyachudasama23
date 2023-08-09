@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riya Chudasama</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyachudasama23&label=Profile%20views&color=0e75b6&style=flat" alt="riyachudasama23" /> </p>
 
 
