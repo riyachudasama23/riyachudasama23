@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/astrophile_2311" target="blank"><img src="https://img.shields.io/twitter/follow/astrophile_2311?logo=twitter&style=for-the-badge" alt="astrophile_2311" /></a> </p>
 
-- 🔭 I’m currently **working on Grocery-Store_Website**
+- 🔭 I’m **a fourth year student from P P Savani University**
 
 - 🌱 I’m currently learning **javascript & exploring Web3**
 
